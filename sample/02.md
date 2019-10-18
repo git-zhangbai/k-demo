@@ -1,13 +1,13 @@
-# 〜について
-[README.md](README.md)
+# 製品について
+[製品について](README.md)
 
 ## マニュアル
-[manual/01.md](manual/01.md)
-[manual/02.md](manual/02.md)
+[マニュアル1](manual/01.md)
+[マニュアル2](manual/02.md)
 
 ## サンプル
-[sample/01.md](sample/01.md)
-[sample/02.md](sample/02.md)
+[サンプル1](sample/01.md)
+[サンプル2](sample/02.md)
 
 ## faq
-[faq/01.md](faq/01.md)
+[FAQ](faq/01.md)
